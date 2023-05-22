@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Wenio Santana
 
-- 🔭 Atualmente estou trabalhando como Analista de Suporte na Dell Technologies
-- 📚 Eu estou estudando JavaScript e Java
+- 🔭 Atualmente estou trabalhando como Analista de Suporte no Palácio dos Bandeirantes para o Governo do Estado via Prodesp
+- 📚 Eu estou estudando Java
 - 📩 Contate-me no e-mail: Wenio.souza123@gmail.com
 
 <div align="center">
